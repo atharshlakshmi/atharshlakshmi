@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello! I’m Lakshmi, a student at NTU with a passion for problem-solving and continuous learning. I thrive on tackling complex challenges and am always eager to explore new activities and skills. Looking ahead, I am excited to leverage my problem-solving abilities and drive to contribute meaningfully to innovative projects and dynamic teams.
 <!--
 **atharshlakshmi/atharshlakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
