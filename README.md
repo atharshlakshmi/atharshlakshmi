@@ -3,7 +3,7 @@ I enjoy self-learning and taking on new challenges. Currently, I’m exploring d
 
 I've been joining hackathons to motivate myself to do more projects to apply my knowledge and learn new skills! You can find some of them here.
 
-
+<!--
 **atharshlakshmi/atharshlakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
