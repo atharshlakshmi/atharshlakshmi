@@ -1,7 +1,7 @@
 ## Hi there 👋
-I’m Lakshmi, a student at NTU with a passion for problem-solving and continuous learning. 
+Hi, I'm Lakshmi! I enjoy self-learning and taking on new challenges. Currently, I’m exploring different areas of Artificial Intelligence and pursuing undergraduate research in Image and Video Generation.
 
-I thrive on tackling complex challenges and am always eager to explore new activities and skills. Looking ahead, I am excited to leverage my problem-solving abilities and passion for learning to contribute meaningfully to innovative projects and dynamic teams.
+I've been joining hackathons to motivate myself to do more projects to apply my knowledge and learn new skills! You can find some of them here:
 
 <!--
 **atharshlakshmi/atharshlakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
