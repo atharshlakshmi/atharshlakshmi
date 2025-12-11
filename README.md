@@ -1,5 +1,5 @@
 ## Hello! ⭐️
-Hi, I’m Lakshmi! I'm a Turing AI Scholar, majoring in Data Science & AI in NTU. Currently, I'm exploring the usage of video models to generate images as part of my undergraduate research. 
+Hi, I’m Lakshmi, and I'm majoring in Data Science & AI. Currently, I'm exploring the usage of video models to generate images as part of my undergraduate research. 
 
 I have a passion for resposible AI and my core ambition is to build a career dedicated to contributing directly to the field of AI Safety! As I explore my interests, I'll be making some projects. You can find them here!
 
