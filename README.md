@@ -1,7 +1,8 @@
 ## Hi, I'm Lakshmi! ⭐️
-I enjoy self-learning and taking on new challenges. Currently, I’m exploring different areas of Artificial Intelligence and pursuing undergraduate research in Image and Video Generation.
+I'm a student, majoring in Data Science and AI. Currently, I’m pursuing undergraduate research in image generation. 
 
-I've been joining hackathons to motivate myself to do more projects to apply my knowledge and learn new skills! You can find some of them here.
+I have a passion for resposible AI and my core ambition is to build a career dedicated to contributing directly to the field of AI Safety! 
+As I explore my interests, I'll be making some projects. You can find them here!
 
 <!--
 **atharshlakshmi/atharshlakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
