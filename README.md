@@ -4,7 +4,7 @@ Hi, I’m Lakshmi, and I'm majoring in Data Science & AI. Currently, I'm explori
 I have a passion for responsible AI and my core ambition is to build a career dedicated to contributing directly to the field of AI Safety! As I explore my interests, I'll be making some projects. You can find them here!
 
 Personal Project:
-- Guardrail API: [Clean Talk](https://github.com/vaisiyabalakrishnan/clean-talk)
+- Guardrail API: [Clean Talk](https://github.com/atharshlakshmi/clean-talk)
 
 Research Project:
 - (Team) LLMs in Embodied Environments: [GOALIE](https://github.com/vaisiyabalakrishnan/GOALIE).
