@@ -10,8 +10,9 @@ Research Project:
 - (Team) LLMs in Embodied Environments: [GOALIE](https://github.com/vaisiyabalakrishnan/GOALIE).
 
 Hackathon Projects:
-- (Team) ML System for Evaluating Reviews: [validO](https://github.com/atharshlakshmi/validO)
 - (Team) Visual Novel for Deaf Etiqutte Education: [Common Ground](https://github.com/klk645445/SignLanguageVisualNovel)
+- (Team) ML System for Evaluating Reviews: [validO](https://github.com/atharshlakshmi/validO)
+
 
 
 <!--
