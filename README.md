@@ -7,7 +7,7 @@ Personal Project:
 - Guardrail API: [Clean Talk](https://github.com/atharshlakshmi/clean-talk)
 
 Research Project:
-- (Team) LLMs in Embodied Environments: [GOALIE](https://github.com/vaisiyabalakrishnan/GOALIE).
+- (Team) LLMs in Embodied Environments: [GOALIE](https://github.com/vaisiyabalakrishnan/GOALIE)
 
 Hackathon Projects:
 - (Team) Visual Novel for Deaf Etiqutte Education: [Common Ground](https://github.com/klk645445/SignLanguageVisualNovel)
