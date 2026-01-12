@@ -7,7 +7,9 @@ Personal Project:
 - Guardrail API: [Clean Talk](https://github.com/atharshlakshmi/clean-talk)
 
 Research Project:
+- (Team) Consistency Probing for Sandbagging Detection: [SandBagDetect](https://github.com/atharshlakshmi/SandbagDetect)
 - (Team) LLMs in Embodied Environments: [GOALIE](https://github.com/vaisiyabalakrishnan/GOALIE)
+
 
 Hackathon Projects:
 - (Team) Visual Novel for Deaf Etiqutte Education: [Common Ground](https://github.com/klk645445/SignLanguageVisualNovel)
