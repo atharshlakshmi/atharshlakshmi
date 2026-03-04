@@ -1,6 +1,6 @@
 ### Hi, I'm Lakshmi! ⭐️
 
-> **Core Ambition:** Building a career dedicated to contributing directly to the field of **AI Safety** and **Responsible AI**. 🛡️
+> **Core Ambition:** Building a career dedicated to contributing directly to the field of **AI Safety** and **Responsible AI**.
 
 I am a Data Science & AI major with a passion for building trustworthy systems. As I explore my interests, I'm developing projects focused on alignment, accessibility, and robust machine learning.
 
